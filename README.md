@@ -7,6 +7,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavohOmai&layout=compact&hide_border=true&title_color=7408D9&text_color=A84FFC&bg_color=0d1117" />
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavohOmai&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/GustavohOmai/github-readme-activity-graph)
+
 <div align="center">  
   <a href="https://www.instagram.com/gustavoomai/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
   <a href="https://www.linkedin.com/in/gustavoomai/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
